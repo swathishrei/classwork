@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A4AC-9906
+
+ Directory of C:\Users\HP\classwork\classwork
+
+09-02-2026  14:36    <DIR>          .
+09-02-2026  14:23    <DIR>          ..
+09-02-2026  14:36                 0 a.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  26,686,074,880 bytes free
