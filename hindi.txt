@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HELLO FROM MAIN 
+=======
+नमस्ते FROM HINDI BRANCH 
+>>>>>>> hindi
